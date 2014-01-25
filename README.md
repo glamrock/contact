@@ -10,7 +10,7 @@ griffin[@](@)cryptolab.net
 griffin[@](@)opentechinstitute.org
 
 ###PGP keys
-My current key has a fingerprint of `0x03CF4A0AB3C79A63`, and is available in this repo.
+My current key has a fingerprint of `0x03CF4A0AB3C79A63`, and is available in this repo as `griffin.asc`. Public signatures welcome.
 
 Previous valid key fingerprint was `0xE331FD29AE792C97`.
 
@@ -31,4 +31,8 @@ I don't go to a ton of events, and fewer publicly, but here are a few that are w
 * Fall: Arse Elektronika, San Francisco
 * Fall: IS4CWN, To Be Announced
 * Winter: 31c3, Hamburg, Germany
+
+###SSH Key
+If'n you need my ssh key, it's in this repo as `griffin.pubkey`
+
 
