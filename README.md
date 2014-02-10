@@ -16,6 +16,7 @@ Previous valid key fingerprint was `0xE331FD29AE792C97`.
 
 ###OTR Messaging
 `saint@jabber.ccc.de`
+fingerprint: `BB4502D0 663D4E76 68CBF211 5665F475 92E95A1B`
 
 ###Ostel.co
 username: `griffin`
@@ -33,6 +34,6 @@ I don't go to a ton of events, and fewer publicly, but here are a few that are w
 * Winter: 31c3, Hamburg, Germany
 
 ###SSH Key
-If'n you need my ssh key, it's in this repo as `griffin.pubkey`
+If'n you need my ssh key, it's in this repo as `griffin.pubkey`. The gpg signed version is `griffin.pubkey.asc`
 
 
