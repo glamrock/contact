@@ -16,7 +16,7 @@ Previous valid key fingerprint was `0xE331FD29AE792C97`.
 
 ###OTR Messaging
 `saint@jabber.ccc.de`
-fingerprint: `BB4502D0 663D4E76 68CBF211 5665F475 92E95A1B`
+fingerprint: `2D288642 9FDA7B11 019B1DCF 21F24469 E2F3FB42`
 
 ###Ostel.co
 username: `griffin`
