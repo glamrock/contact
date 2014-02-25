@@ -27,6 +27,7 @@ I don't go to a ton of events, and fewer publicly, but here are a few that are w
 **2014**
 * 21 Feb: Tor Hack Day, Reykjavik, Iceland
 * 3 Mar: RightsCon, San Jose, California
+* 2 July: Tor Summer Dev Meeting, Paris
 * 18 July: HOPE X, New York City
 * 20 Aug: FOCI (USENIX), San Diego, California
 * Fall: Arse Elektronika, San Francisco
