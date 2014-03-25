@@ -10,9 +10,9 @@ griffin[@](@)cryptolab.net
 griffin[@](@)opentechinstitute.org
 
 ###PGP keys
-My current key has a fingerprint of `0x03CF4A0AB3C79A63`, and is available in this repo as `griffin.asc`. Public signatures welcome.
+My current key `0xB3C79A63` has a fingerprint of `879B DA5B F6B2 7B61 2745  0A25 03CF 4A0A B3C7 9A63`, and is available in this repo as `griffin.asc`. Public signatures welcome.
 
-Previous valid key fingerprint was `0xE331FD29AE792C97`.
+Previous valid key was `AE792C97`.
 
 ###OTR Messaging
 `saint@jabber.ccc.de`
