@@ -1,13 +1,8 @@
 #How to contact me
 
 ###Email
-Where you email is highly dependent on context.
 
-*Personal and Cupcake-related email:*<br>
 griffin[@](@)cryptolab.net
-
-*Commotion-related email:*<br>
-griffin[@](@)opentechinstitute.org
 
 ###PGP keys
 My current key `0xB3C79A63` has a fingerprint of `879B DA5B F6B2 7B61 2745  0A25 03CF 4A0A B3C7 9A63`, and is available in this repo as `griffin.asc`. Public signatures welcome.
